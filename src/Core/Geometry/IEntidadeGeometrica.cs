@@ -1,5 +1,5 @@
 // Define o namespace baseado no nome do seu projeto (com sublinhado)
-namespace Teste_Sistema_CAD.Core.Geometry
+namespace VeraxCAD2D.Core.Geometry
 {
     /// <summary>
     /// Define o contrato base para todas as entidades 

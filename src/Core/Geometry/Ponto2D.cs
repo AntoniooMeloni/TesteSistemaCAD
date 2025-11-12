@@ -1,4 +1,4 @@
-namespace Teste_Sistema_CAD.Core.Geometry
+namespace VeraxCAD2D.Core.Geometry
 {
     /// <summary>
     /// Representa um ponto 2D no espaço do "mundo".

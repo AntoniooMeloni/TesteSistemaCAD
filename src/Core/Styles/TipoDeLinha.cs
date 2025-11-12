@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Teste_Sistema_CAD.Core.Styles
+namespace VeraxCAD2D.Core.Styles
 {
     /// <summary>
     /// Representa um padrão de tipo de linha (ex: tracejada).

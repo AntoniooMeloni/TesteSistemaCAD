@@ -1,4 +1,4 @@
-namespace Teste_Sistema_CAD.Core.Styles
+namespace VeraxCAD2D.Core.Styles
 {
     /// <summary>
     /// Enumeração dos possíveis tipos de terminais de linha de cota.

@@ -1,2 +1,2 @@
-# Sistema de CAD 2D
+# VeraxCAD 2D
 

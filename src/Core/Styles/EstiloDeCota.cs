@@ -1,4 +1,4 @@
-namespace Teste_Sistema_CAD.Core.Styles
+namespace VeraxCAD2D.Core.Styles
 {
     /// <summary>
     /// Define um estilo completo para entidades de Cota (Dimensão).

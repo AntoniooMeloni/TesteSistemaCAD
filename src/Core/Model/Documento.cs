@@ -1,9 +1,9 @@
 using System.Collections.Generic; // Para usar List<>
 using System.Linq; // Para usar o .FirstOrDefault()
-using Teste_Sistema_CAD.Core.Geometry; // Para usar IEntidadeGeometrica
-using Teste_Sistema_CAD.Core.Styles; // Para usar EstiloDeTexto, EstiloDeCota, etc.
+using VeraxCAD2D.Core.Geometry; // Para usar IEntidadeGeometrica
+using VeraxCAD2D.Core.Styles; // Para usar EstiloDeTexto, EstiloDeCota, etc.
 
-namespace Teste_Sistema_CAD.Core.Model
+namespace VeraxCAD2D.Core.Model
 {
     /// <summary>
     /// Representa o documento de desenho principal.

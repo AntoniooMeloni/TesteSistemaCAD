@@ -1,6 +1,6 @@
-using Teste_Sistema_CAD.Core.Geometry;
+using VeraxCAD2D.Core.Geometry;
 
-namespace Teste_Sistema_CAD.Core.Geometry
+namespace VeraxCAD2D.Core.Geometry
 {
     /// <summary>
     /// Representa uma entidade de Círculo 2D.

@@ -1,4 +1,4 @@
-namespace Teste_Sistema_CAD.Core.Styles
+namespace VeraxCAD2D.Core.Styles
 {
     /// <summary>
     /// Enumeração para espessuras de linha padronizadas pela ABNT (ISO 128).

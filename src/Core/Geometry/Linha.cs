@@ -1,7 +1,7 @@
 // Estamos usando o Ponto2D, então precisamos "importar" esse namespace
-using Teste_Sistema_CAD.Core.Geometry;
+using VeraxCAD2D.Core.Geometry;
 
-namespace Teste_Sistema_CAD.Core.Geometry
+namespace VeraxCAD2D.Core.Geometry
 {
     /// <summary>
     /// Representa uma entidade de Linha 2D.
