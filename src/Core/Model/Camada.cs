@@ -1,9 +1,9 @@
 // "using" importa as bibliotecas que precisamos
 using System.Collections.Generic; // Para usar List<>
-using Teste_Sistema_CAD.Core.Geometry; // Para usar IEntidadeGeometrica
+using VeraxCAD2D.Core.Geometry; // Para usar IEntidadeGeometrica
 
 // O namespace agora é .Model
-namespace Teste_Sistema_CAD.Core.Model
+namespace VeraxCAD2D.Core.Model
 {
     /// <summary>
     /// Representa uma Camada (Layer) do desenho.
